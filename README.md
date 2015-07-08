@@ -20,7 +20,7 @@ The project leader is a SME solutions provider (Ovation), working with a large c
 
 
 ## Architecture Diagram
-![Architecture](http://i.imgur.com/N4fdZvZ.jpg)
+![Architecture](http://i.imgur.com/FyK7tNi.jpg)
 
 ## Conceptual Diagram
 ![Conceptual](http://i.imgur.com/bECn8xF.jpg)
